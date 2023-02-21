@@ -1,4 +1,4 @@
-# my-awesome-nerdpack
+# nerdpack-matching-game
 
 ## Getting started
 
